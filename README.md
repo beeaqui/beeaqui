@@ -29,19 +29,19 @@ Throughout my academic journey, I have actively sought challenges that pushed me
 ## ⚡Tech Stack
 **💻 Languages and Frameworks/Tools**:
 <div>
-  <img src="https://drive.google.com/uc?export=view&id=1pY390Ft7u5kNuMrU70OkMTndHj-T3Bt3" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=17yy5fnfn4Lvhl7iUORn_ETpQBJWt2Ltp" title="Django" alt="Django" width="30" height="30"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=1FwW0tr6NjaOceHZcw-1za6BJSdVWcJtK"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=1U-lEnfTOVX32bfApgHmhDFlhoRLld2d9" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=1M0SbZfLfmvEGtQbKtQCto_VqxLwo6yJt" title="Streamlit" **alt="Streamlit" width="30" height="30"/>
-  <img src="https://drive.google.com/uc?export=view&id=1t8nfcuSTLjOOdHzfhYOgUVQwUAMD10h2" title="MongoDB" **alt="MongoDB" width="45" height="30"/>
-  <img src="https://drive.google.com/uc?export=view&id=1eUnDK7nCMGDF4wdWxJLZyOa6oT22hdr_" title="Git" **alt="Git" width="30" height="30"/>
-  <img src="https://drive.google.com/uc?export=view&id=1AMoj-9TVqC-Ig2RADzE8j2dC7BsVYagx" title="pandas" **alt="pandas" width="30" height="30"/>
-  <img src="https://drive.google.com/uc?export=view&id=1g2IE_wiwd-F7v9A4-MCqHJ0JcBcSXO1E" title="numpy" **alt="numpy" width="30" height="30"/>  
-  <img src="https://drive.google.com/uc?export=view&id=1Ls0YDy4YdZB9B73XX6yiruWOXgi6cm00" title="LaTeX" **alt="LaTeX" width="60" height="30"/>
-  <img src="https://drive.google.com/uc?export=view&id=1yb5EaRXf9g7aBfJkqdkmv3PXoh1bVtqE" title="AutoCAD" **alt="AutoCAD" width="30" height="30"/>
-  <img src="https://drive.google.com/uc?export=view&id=1nd4Ag5nnMQCuOPJEOfQvQkyNw8gXBx2C" title="SolidWorks" **alt="SolidWorks" width="70" height="30"/>
-  <img src="https://drive.google.com/uc?export=view&id=15HFh9U8n6cNdsPrVF480TJSrrxsCeWuS" title="Microsoft Office" **alt="Microsoft Office" width="30" height="30"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1pY390Ft7u5kNuMrU70OkMTndHj-T3Bt3" title="Python" alt="Python" width="30" height="30"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=17yy5fnfn4Lvhl7iUORn_ETpQBJWt2Ltp" title="Django" alt="Django" width="30" height="30"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1FwW0tr6NjaOceHZcw-1za6BJSdVWcJtK"  title="CSS3" alt="CSS" width="30" height="30"/></a>
+  <a href="https://www.w3schools.com/Html/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1U-lEnfTOVX32bfApgHmhDFlhoRLld2d9" title="HTML" alt="HTML" width="30" height="30"/></a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1M0SbZfLfmvEGtQbKtQCto_VqxLwo6yJt" title="Streamlit" **alt="Streamlit" width="30" height="30"/></a>
+  <a href="https://www.mongodb.com/pt-br" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1t8nfcuSTLjOOdHzfhYOgUVQwUAMD10h2" title="MongoDB" **alt="MongoDB" width="45" height="30"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1eUnDK7nCMGDF4wdWxJLZyOa6oT22hdr_" title="Git" **alt="Git" width="30" height="30"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1AMoj-9TVqC-Ig2RADzE8j2dC7BsVYagx" title="pandas" **alt="pandas" width="30" height="30"/></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1g2IE_wiwd-F7v9A4-MCqHJ0JcBcSXO1E" title="numpy" **alt="numpy" width="30" height="30"/></a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1Ls0YDy4YdZB9B73XX6yiruWOXgi6cm00" title="LaTeX" **alt="LaTeX" width="60" height="30"/></a>
+  <a href="https://www.autodesk.com/pt" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1yb5EaRXf9g7aBfJkqdkmv3PXoh1bVtqE" title="AutoCAD" **alt="AutoCAD" width="30" height="30"/></a>
+  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=1nd4Ag5nnMQCuOPJEOfQvQkyNw8gXBx2C" title="SolidWorks" **alt="SolidWorks" width="70" height="30"/></a>
+  <a href="https://www.office.com/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?export=view&id=15HFh9U8n6cNdsPrVF480TJSrrxsCeWuS" title="Microsoft Office" **alt="Microsoft Office" width="30" height="30"/></a>
 </div>
 <br>
 
@@ -54,5 +54,5 @@ Throughout my academic journey, I have actively sought challenges that pushed me
 
 🌐 LinkedIn: [www.linkedin.com/in/anarodrigues123/](www.linkedin.com/in/anarodrigues123/)
 
-📜 ORCID: [https://orcid.org/0009-0009-9999-1599]([https://orcid.org/0009-0009-9999-1599)
+📜 ORCID: [https://orcid.org/0009-0009-9999-1599](https://orcid.org/0009-0009-9999-1599)
 
