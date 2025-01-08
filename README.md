@@ -28,16 +28,16 @@ Currently, I'm working on the following projects:
 
 - **Languages**:
 <div>
-  <img src="https://drive.google.com/uc?export=view&id=" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=" title="Django" alt="Django" width="30" height="30"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id="  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1z1SU6Eg8zFVXhiJD2TiJ0DQmGsYR7Hk5" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1OP67ucnZ_phy60JVA39wcdtuMnfp3Vk1" title="Django" alt="Django" width="30" height="30"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1FwW0tr6NjaOceHZcw-1za6BJSdVWcJtK"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1uAJpWea12rjwYJb6bD_XfcQyR9lOhTr4" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
 </div>
 
 - **Frameworks/Tools**: Streamlit, MongoDB, Pandas, NumPy, Git, AutoCAD, SolidWorks, Microsoft Office, LaTeX
 <div>
   <img src="https://drive.google.com/uc?export=view&id=1M0SbZfLfmvEGtQbKtQCto_VqxLwo6yJt" title="Streamlit" **alt="Streamlit" width="30" height="30"/>
-  <img src="https://drive.google.com/uc?export=view&id=1t8nfcuSTLjOOdHzfhYOgUVQwUAMD10h2" title="MongoDB" **alt="MongoDB" width="50" height="30"/>
+  <img src="https://drive.google.com/uc?export=view&id=1t8nfcuSTLjOOdHzfhYOgUVQwUAMD10h2" title="MongoDB" **alt="MongoDB" width="45" height="30"/>
   <img src="https://drive.google.com/uc?export=view&id=1eUnDK7nCMGDF4wdWxJLZyOa6oT22hdr_" title="Git" **alt="Git" width="30" height="30"/>
   <img src="https://drive.google.com/uc?export=view&id=1Ls0YDy4YdZB9B73XX6yiruWOXgi6cm00" title="LaTeX" **alt="LaTeX" width="60" height="30"/>
   <img src="https://drive.google.com/uc?export=view&id=1yb5EaRXf9g7aBfJkqdkmv3PXoh1bVtqE" title="AutoCAD" **alt="AutoCAD" width="30" height="30"/>
