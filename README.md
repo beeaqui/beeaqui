@@ -29,7 +29,7 @@ Currently, I'm working on the following projects:
 - **Languages**:
 <div>
   <img src="https://drive.google.com/uc?export=view&id=1pY390Ft7u5kNuMrU70OkMTndHj-T3Bt3" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=1qm05tlqN3tEqbEbKtBW_PZ_fXlFLC-RJ" title="Django" alt="Django" width="30" height="30"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=17yy5fnfn4Lvhl7iUORn_ETpQBJWt2Ltp" title="Django" alt="Django" width="30" height="30"/>&nbsp;
   <img src="https://drive.google.com/uc?export=view&id=1FwW0tr6NjaOceHZcw-1za6BJSdVWcJtK"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
   <img src="https://drive.google.com/uc?export=view&id=1U-lEnfTOVX32bfApgHmhDFlhoRLld2d9" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
 </div>
@@ -39,13 +39,17 @@ Currently, I'm working on the following projects:
   <img src="https://drive.google.com/uc?export=view&id=1M0SbZfLfmvEGtQbKtQCto_VqxLwo6yJt" title="Streamlit" **alt="Streamlit" width="30" height="30"/>
   <img src="https://drive.google.com/uc?export=view&id=1t8nfcuSTLjOOdHzfhYOgUVQwUAMD10h2" title="MongoDB" **alt="MongoDB" width="45" height="30"/>
   <img src="https://drive.google.com/uc?export=view&id=1eUnDK7nCMGDF4wdWxJLZyOa6oT22hdr_" title="Git" **alt="Git" width="30" height="30"/>
+  <img src="https://drive.google.com/uc?export=view&id=1AMoj-9TVqC-Ig2RADzE8j2dC7BsVYagx" title="pandas" **alt="pandas" width="30" height="30"/>
+  <img src="https://drive.google.com/uc?export=view&id=1g2IE_wiwd-F7v9A4-MCqHJ0JcBcSXO1E" title="numpy" **alt="numpy" width="30" height="30"/>  
   <img src="https://drive.google.com/uc?export=view&id=1Ls0YDy4YdZB9B73XX6yiruWOXgi6cm00" title="LaTeX" **alt="LaTeX" width="60" height="30"/>
   <img src="https://drive.google.com/uc?export=view&id=1yb5EaRXf9g7aBfJkqdkmv3PXoh1bVtqE" title="AutoCAD" **alt="AutoCAD" width="30" height="30"/>
   <img src="https://drive.google.com/uc?export=view&id=1nd4Ag5nnMQCuOPJEOfQvQkyNw8gXBx2C" title="SolidWorks" **alt="SolidWorks" width="70" height="30"/>
   <img src="https://drive.google.com/uc?export=view&id=15HFh9U8n6cNdsPrVF480TJSrrxsCeWuS" title="Microsoft Office" **alt="Microsoft Office" width="30" height="30"/>
 </div>
 
-https://drive.google.com/file/d/1qm05tlqN3tEqbEbKtBW_PZ_fXlFLC-RJ/view?usp=sharing
+https://drive.google.com/file/d/1AMoj-9TVqC-Ig2RADzE8j2dC7BsVYagx/view?usp=sharing
+https://drive.google.com/file/d/1g2IE_wiwd-F7v9A4-MCqHJ0JcBcSXO1E/view?usp=sharing
+
 
 - **Other Skills**: Data Science, Data Visualization, Optimization, Lean Methodologies
 
