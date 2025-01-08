@@ -28,10 +28,10 @@ Currently, I'm working on the following projects:
 
 - **Languages**:
 <div>
-  <img src="https://drive.google.com/uc?export=view&id=1z1SU6Eg8zFVXhiJD2TiJ0DQmGsYR7Hk5" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=1OP67ucnZ_phy60JVA39wcdtuMnfp3Vk1" title="Django" alt="Django" width="30" height="30"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1pY390Ft7u5kNuMrU70OkMTndHj-T3Bt3" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1qm05tlqN3tEqbEbKtBW_PZ_fXlFLC-RJ" title="Django" alt="Django" width="30" height="30"/>&nbsp;
   <img src="https://drive.google.com/uc?export=view&id=1FwW0tr6NjaOceHZcw-1za6BJSdVWcJtK"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=1uAJpWea12rjwYJb6bD_XfcQyR9lOhTr4" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1U-lEnfTOVX32bfApgHmhDFlhoRLld2d9" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
 </div>
 
 - **Frameworks/Tools**: Streamlit, MongoDB, Pandas, NumPy, Git, AutoCAD, SolidWorks, Microsoft Office, LaTeX
@@ -45,6 +45,7 @@ Currently, I'm working on the following projects:
   <img src="https://drive.google.com/uc?export=view&id=15HFh9U8n6cNdsPrVF480TJSrrxsCeWuS" title="Microsoft Office" **alt="Microsoft Office" width="30" height="30"/>
 </div>
 
+https://drive.google.com/file/d/1qm05tlqN3tEqbEbKtBW_PZ_fXlFLC-RJ/view?usp=sharing
 
 - **Other Skills**: Data Science, Data Visualization, Optimization, Lean Methodologies
 
