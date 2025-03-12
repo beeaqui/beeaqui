@@ -21,8 +21,6 @@ Throughout my academic journey, I have actively sought challenges that pushed me
 ## 🌱 Recent Projects
 **🛠️ Lean and continuous improvement training**: Developing a training course on Lean and continuous improvement in a flexible and adaptable production line, focusing on production management techniques and process optimization.
 
-**📝 Scientific paper**: Writing a scientific paper on the application of active learning methodologies in learning factories, exploring how the simulation of production lines and the use of games help teach engineering techniques.
-
 **📱 Web app for production optimization**: Building a web application using **Python**, **Streamlit**, and **MongoDB** to visualize and optimize production planning in a learning factory setting. The app integrates real-time data to monitor key performance indicators and simulates production processes to help improve decision-making and workflow efficiency.
 
 
